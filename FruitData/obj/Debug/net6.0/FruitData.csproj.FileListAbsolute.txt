@@ -1,0 +1,12 @@
+C:\Users\Eigenaar\Documents\PaymentApp\FruitAPI\FruitData\bin\Debug\net6.0\FruitData.deps.json
+C:\Users\Eigenaar\Documents\PaymentApp\FruitAPI\FruitData\bin\Debug\net6.0\FruitData.dll
+C:\Users\Eigenaar\Documents\PaymentApp\FruitAPI\FruitData\bin\Debug\net6.0\ref\FruitData.dll
+C:\Users\Eigenaar\Documents\PaymentApp\FruitAPI\FruitData\bin\Debug\net6.0\FruitData.pdb
+C:\Users\Eigenaar\Documents\PaymentApp\FruitAPI\FruitData\obj\Debug\net6.0\FruitData.csproj.AssemblyReference.cache
+C:\Users\Eigenaar\Documents\PaymentApp\FruitAPI\FruitData\obj\Debug\net6.0\FruitData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Documents\PaymentApp\FruitAPI\FruitData\obj\Debug\net6.0\FruitData.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Documents\PaymentApp\FruitAPI\FruitData\obj\Debug\net6.0\FruitData.AssemblyInfo.cs
+C:\Users\Eigenaar\Documents\PaymentApp\FruitAPI\FruitData\obj\Debug\net6.0\FruitData.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Documents\PaymentApp\FruitAPI\FruitData\obj\Debug\net6.0\FruitData.dll
+C:\Users\Eigenaar\Documents\PaymentApp\FruitAPI\FruitData\obj\Debug\net6.0\ref\FruitData.dll
+C:\Users\Eigenaar\Documents\PaymentApp\FruitAPI\FruitData\obj\Debug\net6.0\FruitData.pdb
